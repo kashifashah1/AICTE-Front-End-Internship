@@ -1,6 +1,6 @@
 # AICTE-Front-End-Internship
 
-<h2>🚀 Edunet Foundation – IBM SkillsBuild Internship (Frontend Web Development)<h2/>
+<h2>🚀 Edunet Foundation – IBM SkillsBuild Internship (Frontend Web Development)</h2>h2>
 This repository contains my work and learnings from a 6-week internship (Aug–Oct 2025) with Edunet Foundation (AICTE – IBM SkillsBuild Program).
 During this internship, I:
   
